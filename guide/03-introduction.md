@@ -108,17 +108,17 @@ communities. The text that we use in the internal course is *The Field Guide to
 Understanding Human Error* by Sidney Dekker. We reference a number of passages
 in these texts as well:
 
-- *Behind Human Error*, by David Woods, Sidney Dekker, Richard Cook, Leila
+- *[Behind Human Error](https://www.amazon.com/Behind-Human-Error-David-Woods/dp/0754678342)*, by David Woods, Sidney Dekker, Richard Cook, Leila
   Johannesen, and Nadine Sarter
-- *Pre-Accident Investigations: An Introduction to Organizational Safety*, by
+- *[Pre-Accident Investigations](https://www.amazon.com/Pre-Accident-Investigations-Todd-Conklin/dp/1409447820/ref=sr_1_1?crid=3BJM2ZBD1LRQR&dchild=1&keywords=pre+accident+investigation+todd+conklin&qid=1600360274&s=books&sprefix=pre+accident+i%2Cstripbooks%2C178&sr=1-1): An Introduction to Organizational Safety*, by
   Todd Conklin
-- *Safety Differently*, by Sidney Dekker
-- *Engineering a Safer World*, by Nancy Leveson
-- *Safety-I and Safety-II: The Past and Future of Safety Management*, by Erik
+- *[Safety Differently](https://www.amazon.com/Safety-Differently-Sidney-Dekker/dp/1482241994/ref=sr_1_1?dchild=1&keywords=safety+differently+sidney+dekker&qid=1600360301&s=books&sr=1-1)*, by Sidney Dekker
+- *[Engineering a Safer World](https://www.amazon.com/Engineering-Safer-World-Systems-Thinking/dp/0262533693/ref=sr_1_1?dchild=1&keywords=engineering+a+safer+world&qid=1600360326&s=books&sr=1-1)*, by Nancy Leveson
+- *[Safety-I and Safety-II](https://www.amazon.com/Safety-I-Safety-II-Erik-Hollnagel/dp/1472423089/ref=sr_1_1?dchild=1&keywords=safety-I+Erik&qid=1600360353&s=books&sr=1-1): The Past and Future of Safety Management*, by Erik
   Hollnagel
-- *Normal Accidents: Living with High-Risk Technologies*, by Charles Perrow
-- *The Challenger Launch Decision*, by Diane Vaughan
-- *Working Minds: A Practitioner’s Guide to Cognitive Task Analysis*, by Beth
+- *[Normal Accidents: Living with High-Risk Technologies](https://www.amazon.com/Normal-Accidents-Living-High-Risk-Technologies/dp/0691004129/ref=sr_1_1?dchild=1&keywords=normal+accidents&qid=1600360372&s=books&sr=1-1)*, by Charles Perrow
+- *[The Challenger Launch Decision](https://www.amazon.com/Challenger-Launch-Decision-Technology-Deviance/dp/022634682X/ref=sr_1_1?dchild=1&keywords=challenger+launch+decision&qid=1600360398&s=books&sr=1-1)*, by Diane Vaughan
+- *[Working Minds](https://www.amazon.com/Working-Minds-Practitioners-Cognitive-Analysis/dp/0262532816/ref=sr_1_1?dchild=1&keywords=working+minds&qid=1600360420&s=books&sr=1-1): A Practitioner’s Guide to Cognitive Task Analysis*, by Beth
   Crandall, Gary Klein, and Robert Hoffman
 
 Many of the techniques and approaches to interviewing and debriefing
