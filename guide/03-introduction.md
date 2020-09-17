@@ -199,9 +199,21 @@ perspectives into a single story.  Quite the contrary—the value in gathering
 multiple narratives is to ask questions that shed light on the contrasting and
 complementing parts of the different accounts shared in the debriefing.
 
-### Because everyone truly is an expert
+### Why this is not a meeting about "expertise"
 When we ask people for descriptions of their work, we hear about their
-expertise. We hear about the tips and tricks they’ve developed over their
+expertise. Sometimes this expertise has been formalized and verified by academic institutions
+and sometimes it is hard-won insights gained from the front line. 
+
+It is critical that this meeting respect what everyone brings to the table, whether or not their 
+expertise has been formalized. This is a group of peers and every insight must be captured.
+This is not to say that expertise is dismissed, but rather mutually acknowledged and respected.
+This is not a meeting where we get to say "because I said so", but rather, to share the insights
+that come from both formal and informal training.
+
+This is also not a meeting about opinions. This is a science and evidence based process, and opinions 
+and intuitions that cannot be rooted in at least some evidence will need to be dismissed.
+
+We hear about the tips and tricks they’ve developed over their
 careers, like the shortcut shell aliases, special bookmarks, one-liner
 scripts, and the go-to graphs they always look at when diagnosing certain
 problems.
