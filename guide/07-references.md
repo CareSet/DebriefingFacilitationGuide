@@ -10,3 +10,4 @@
 - Shorrock, S. (2014, November 17), [Life After Human Error - Velocity Europe 2014](https://www.youtube.com/watch?v=STU3Or6ZU60) [Video file]. Retrieved from 
 - Smith, J. (2016, January 14). [72% of people get their best ideas in the shower—here’s why](https://www.businessinsider.com/why-people-get-their-best-ideas-in-the-shower-2016-1). Retrieved from 
 - USDA Forest Service (2015) [Coordinated Response Protocol/Learning Review Guide](https://www.fs.usda.gov/rmrs/science-spotlights/coordinated-response-protocol-and-learning-review-serious-accidents), USDA Forest Service
+- [The Fearless Organization](https://www.amazon.com/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247/ref=sr_1_2?dchild=1&keywords=fearless+organization+amy+edmondson&qid=1603515802&sr=8-2) Amy C Edmondson
